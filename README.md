@@ -1,2 +1,2 @@
 # GIT101
-Git&amp;Github Crush Course 
+Git has been taken into pieces.
